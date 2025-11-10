@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/7gl/static/js/main.253e0e36.js",
+    "static/media/entry.jpeg": "/7gl/static/media/entry.bf385986f5fbf2def80f.jpeg",
+    "static/media/door.jpeg": "/7gl/static/media/door.08ca575cd964cab44e2e.jpeg",
+    "index.html": "/7gl/index.html",
+    "main.253e0e36.js.map": "/7gl/static/js/main.253e0e36.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.253e0e36.js"
+  ]
+}
